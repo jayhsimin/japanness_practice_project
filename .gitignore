@@ -26,6 +26,9 @@ jp-front/node_modules/
 jp-front/dist/
 jp-front/.vite/
 
+# Claude Code (local settings)
+.claude/
+
 # IDE
 .vscode/
 .idea/
